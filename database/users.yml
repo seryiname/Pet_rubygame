@@ -1,0 +1,6 @@
+- :login: hedgehog
+  :password: '123'
+  :role: User
+- :login: us
+  :password: '1234'
+  :role: User

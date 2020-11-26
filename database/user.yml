@@ -1,0 +1,15 @@
+
+--- !ruby/object:Hedgehog
+user_login: us
+name: Julia
+feed_level: 1
+water_level: 1
+energy_level: '1'
+lifes: 3
+need_toilet: false
+states:
+- feed_level = 1
+- water_level = 1
+- energy_level = 1
+response: []
+emoji: "&#128525;"

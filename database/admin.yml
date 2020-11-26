@@ -1,0 +1,14 @@
+--- !ruby/object:Hedgehog
+user_login: admin
+name: name
+feed_level: 3
+water_level: 3
+energy_level: 3
+lifes: 3
+need_toilet: false
+states:
+- feed_level = 3
+- water_level = 3
+- energy_level = 3
+response: []
+emoji: "&#128525;"
